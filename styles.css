@@ -1,0 +1,17 @@
+.info-lorem {
+  background-color: #faebd6;
+  padding: 5px 0px 50px 0px;
+}
+p {
+  font-family: Arial;
+}
+h2 {
+  color: #ff0000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.first-paragraph {
+  color: #a42423;
+}
+.sec-paragraph {
+  color: #00008f;
+}
